@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "スターライトと星の海",
+  "base_artist": "酔シグレ",
+  "createdAt": "2026-02-07T07:41:19.925709Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スターライトと星の海 (feat. みょみょ)",
+      "artist": "酔シグレ",
+      "has_synced": false,
+      "path": "select/pl_01_スターライトと星の海_(feat._みょみょ)_酔シグレ.txt"
+    }
+  ]
+}
